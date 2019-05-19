@@ -1,4 +1,4 @@
-Sceneform SDK for Android
+Sceneform SDK for Android* Cloned: https://github.com/google-ar/sceneform-android-sdk
 =====================
 Copyright (c) 2018 Google Inc.  All rights reserved.
 
